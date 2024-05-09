@@ -50,7 +50,6 @@ These algorithms operate on hierarchical structures.
 | Binary Search Tree|   ❌    |  ❌   |    ❌    |  ❌   |  ❌  |
 | AVL Tree          |   ❌    |  ❌   |    ❌    |  ❌   |  ❌  |
 | Red-Black Tree    |   ❌    |  ❌   |    ❌    |  ❌   |  ❌  |
-| Trie              |   ❌    |  ❌   |    ❌    |  ❌   |  ❌  |
 
 ## Dynamic Programming
 
